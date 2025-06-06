@@ -43,5 +43,5 @@ This dashboard visualizes sales data by product and region. It includes:
 ### 🧰 Tools Used:
 - Microsoft Power BI
 
-### 📸 Screenshot:
-![Dashboard](dashboard.png)
+#![Dashboard](dashboard.png)
+
