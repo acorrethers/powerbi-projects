@@ -31,3 +31,17 @@ This project is a beginner-friendly interactive dashboard built using Power BI. 
 ---
 
 ✅ Built as part of my portfolio while transitioning into the data analytics field.
+## 🔎 Power BI – Sales Dashboard
+
+This dashboard visualizes sales data by product and region. It includes:
+
+- Total sales by product category
+- Sales by region
+- Key KPIs (total, average, highest, lowest)
+- Slicers for interactivity
+
+### 🧰 Tools Used:
+- Microsoft Power BI
+
+### 📸 Screenshot:
+![Dashboard](dashboard.png)
